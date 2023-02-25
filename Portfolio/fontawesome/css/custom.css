@@ -1,0 +1,17 @@
+
+  .footnav{
+    list-style: none;
+  }
+  .footnav li{
+    text-decoration: none;
+    font-size: 1.3rem;
+    padding-bottom: 20px;
+    
+  }
+  .Email{
+    font-size: 16px;
+   
+  }
+  .Email a{
+    padding-bottom: 20px;
+  }
